@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoWebQLQCF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab1cecfc1a176958459fb841d88aee2d9031f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoWebQLQCF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoWebQLQCF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
