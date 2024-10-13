@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nope\\source\\repos\\DemoWebQLQCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EA33C9-5E7C-492B-88AF-25FBEDB71057}|DemoWebQLQCF.csproj|c:\\users\\nope\\source\\repos\\demowebqlqcf\\views\\shared\\_layoutindexcaphe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4EA33C9-5E7C-492B-88AF-25FBEDB71057}|DemoWebQLQCF.csproj|solutionrelative:views\\shared\\_layoutindexcaphe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EA33C9-5E7C-492B-88AF-25FBEDB71057}|DemoWebQLQCF.csproj|c:\\users\\nope\\source\\repos\\demowebqlqcf\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4EA33C9-5E7C-492B-88AF-25FBEDB71057}|DemoWebQLQCF.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nope\\source\\repos\\DemoWebQLQCF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nope\\source\\repos\\DemoWebQLQCF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T08:06:22.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutIndexCaPhe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nope\\source\\repos\\DemoWebQLQCF\\Views\\Shared\\_LayoutIndexCaPhe.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutIndexCaPhe.cshtml",
+              "ToolTip": "C:\\Users\\Nope\\source\\repos\\DemoWebQLQCF\\Views\\Shared\\_LayoutIndexCaPhe.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutIndexCaPhe.cshtml",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAwLkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T08:01:34.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
